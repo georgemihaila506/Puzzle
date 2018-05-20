@@ -1,0 +1,7 @@
+C:\Users\George\source\repos\Lab1AI\Lab1AI\bin\Release\Lab1AI.exe.config
+C:\Users\George\source\repos\Lab1AI\Lab1AI\bin\Release\Lab1AI.exe
+C:\Users\George\source\repos\Lab1AI\Lab1AI\bin\Release\Lab1AI.pdb
+C:\Users\George\source\repos\Lab1AI\Lab1AI\obj\Release\Lab1AI.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Lab1AI\Lab1AI\obj\Release\Lab1AI.exe
+C:\Users\George\source\repos\Lab1AI\Lab1AI\obj\Release\Lab1AI.pdb
+C:\Users\George\source\repos\Lab1AI\Lab1AI\obj\Release\Lab1AI.csprojResolveAssemblyReference.cache

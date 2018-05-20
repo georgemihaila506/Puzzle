@@ -1,0 +1,7 @@
+C:\Users\George\source\repos\Lab1AI\Lab1AI\bin\Debug\Lab1AI.exe.config
+C:\Users\George\source\repos\Lab1AI\Lab1AI\bin\Debug\Lab1AI.exe
+C:\Users\George\source\repos\Lab1AI\Lab1AI\bin\Debug\Lab1AI.pdb
+C:\Users\George\source\repos\Lab1AI\Lab1AI\obj\Debug\Lab1AI.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\Lab1AI\Lab1AI\obj\Debug\Lab1AI.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Lab1AI\Lab1AI\obj\Debug\Lab1AI.exe
+C:\Users\George\source\repos\Lab1AI\Lab1AI\obj\Debug\Lab1AI.pdb
